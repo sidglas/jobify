@@ -1,0 +1,61 @@
+body {
+  font-family: Roboto, sans-serif;
+}
+h1 {
+  text-align: center;
+
+}
+h2 {
+  background-color: #c4c4c4;
+  font-size: 24px;
+  padding: 7px;
+}
+p {
+  text-align: center;
+}
+h3 {
+  font-size: 24px;
+}
+
+.logo {
+  position: absolute;
+  width: 180.12px;
+  height: 66.23px;
+  left: 630.32px;
+  top: 73.3px;
+  background: #5C0970;
+}
+/*Logo JobiFy Branco - Alta.png*/
+.logo1 {
+
+  width: 180.12px;
+  height: 66.23px;
+
+  background: #5C0970;
+}
+ul {
+  list-style: none;
+  padding-left: 16px;
+}
+li {
+  margin: 0;
+}
+
+label {
+  display: block;
+  margin: 20px 0 4px 0;
+}
+button {
+  padding: 12px;
+  margin-top: 5px;
+}
+input , select {
+  display: block;
+  padding: 8px;
+  width: 540px;
+}
+textarea {
+  padding: 8px;
+  width: 540px;
+  height: 320px;
+}
