@@ -2,7 +2,7 @@
   "name": "jobfly",
   "version": "1.0.0",
   "description": "A simple jobboard for sites",
-  "main": "index.js",
+  "main": "indexito.js",
   "scripts": {
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
