@@ -10,7 +10,8 @@ const dbConnection = sqlite.open(path.resolve(__dirname, 'banco.sqlite') , { Pro
 
 //const dbConnection = sqlite.open('banco.sqlite' , { Promise })
 
-const port = process.env.PORT || 3000
+//const port = process.env.PORT || 3000
+const port = 3000
 
 app.set('view engine', 'ejs')
 app.use(express.static('public'))
